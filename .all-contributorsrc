@@ -434,7 +434,8 @@
       "profile": "https://github.com/vaishnavirshah",
       "contributions": [
         "code",
-        "doc"
+        "doc",
+        "design"
       ]
     },
     {
@@ -513,6 +514,26 @@
       "avatar_url": "https://avatars1.githubusercontent.com/u/38015818?v=4",
       "profile": "http://nchechulin.github.io",
       "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "dhanrajdc7",
+      "name": "Dc7",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/39642060?v=4",
+      "profile": "https://www.youtube.com/codingpotter",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    },
+    {
+      "login": "a-k-r-a-k-r",
+      "name": "akr",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/61563686?v=4",
+      "profile": "https://github.com/a-k-r-a-k-r",
+      "contributions": [
+        "code",
         "doc"
       ]
     }
